@@ -1,0 +1,35 @@
+name: Bi-Weekly Auto Commit
+
+on:
+  schedule:
+    # Runs at 12:00 UTC every Tuesday (2) and Friday (5)
+    - cron: '0 12 * * 2,5'
+  workflow_dispatch: # Allows you to trigger it manually for testing
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push code back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Execute Script or Update File
+        run: |
+          # Option A: Run your Python web scraper to fetch new prices
+          # python3 your_scraper.py
+          
+          # Option B: Simply append the current date to a log file
+          echo "Automated run completed on $(date)" >> update_log.txt
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add update_log.txt
+          
+          # The '|| echo' prevents the workflow from failing if there are no new changes
+          git commit -m "Automated bi-weekly update: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
