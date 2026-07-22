@@ -99,7 +99,7 @@
 
 <div align="center">
   <!-- Activity Graph visualization to match the generated layout aesthetic -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikaran-G&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="97%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikaran-G&theme=tokyo-night&hide_border=true&bg_color=0D1117&days=60" alt="GitHub Activity Graph" width="97%" />
 </div>
 <br>
 <div align="center">
