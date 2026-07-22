@@ -4,17 +4,17 @@
   
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%7C+VAPT;Artificial+Intelligence+%26+Machine+Learning;Web+Application+Developer;eJPT+Certification+Candidate" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%7C+VAPT;Web+Application+Developer;eJPT+Certification+Candidate" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
-<!-- Social Links (Replace with your own) -->
+<!-- Social Links -->
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Harikaran29g@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/g-harikaran">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -52,12 +52,29 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/security-VAPT-3670A0?style=for-the-badge&logo=springsecurity&logoColor=white" alt="VAPT" />
   <br><br>
+  
+  <b>VAPT & Cybersecurity Tools</b><br><br>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-255E94?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-032F6E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <br><br>
+
   <b>Development & Engineering</b><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Apache_NiFi-72B64B?style=for-the-badge&logo=apache&logoColor=white" alt="Apache NiFi" />
+  <br><br>
+
+
+  <b>Tools & Software</b><br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
 <br>
@@ -77,13 +94,15 @@
 
 <br>
 
-<!-- GitHub Stats Grid -->
+<!-- GitHub Stats Grid - UPGRADED UI -->
 <h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harikaran-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikaran-G&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- Activity Graph visualization to match the generated layout aesthetic -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikaran-G&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="97%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikaran-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Harikaran-G&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
