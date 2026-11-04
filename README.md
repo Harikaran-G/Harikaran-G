@@ -188,50 +188,6 @@ I enjoy exploring security vulnerabilities, performing hands-on security assessm
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harikaran-G&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Harikaran-G&theme=dark&hide_border=true&background=020617&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"/>
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikaran-G&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff9c&text_color=c9d1d9"/>
-
-</div>
-
----
-
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harikaran-G/Harikaran-G/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<h2 align="center">🔗 ESTABLISH CONNECTION</h2>
-
-<div align="center">
-
-<a href="mailto:Harikaran29g@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00ff9c?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://linkedin.com/in/g-harikaran">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Harikaran-G">
-<img src="https://img.shields.io/badge/GITHUB-00ff9c?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br><br>
-
 ```bash
 ┌──(harikaran㉿kali)-[~]
 └─$ ./connect.sh
