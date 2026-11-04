@@ -1,122 +1,251 @@
-<!-- Banner & Animated Typing Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Harikaran&fontSize=50&fontAlignY=35&animation=twinkling" alt="Header Banner" />
+<!-- ================= CYBERSECURITY PROFILE ================= -->
 
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%7C+VAPT;Web+Application+Developer;eJPT+Certification+Candidate" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
-
-<!-- Social Links -->
 <div align="center">
-  <a href="mailto:Harikaran29g@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/g-harikaran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:064e3b,100:00ff9c&text=HARIKARAN%20G&fontSize=55&fontColor=00ff9c&fontAlignY=38&desc=CYBERSECURITY%20%7C%20VAPT%20%7C%20SECURITY%20RESEARCH&descSize=15&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Penetration+Testing+Enthusiast;Cybersecurity+Researcher;Web+Application+Security;Network+Security+%26+VAPT;Breaking+Things+to+Secure+Them"/>
 
 <br>
 
-<!-- About Me Section -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🔭 Currently executing <b>Vulnerability Assessments and Penetration Testing (VAPT)</b> and tackling CTFs.</li>
-        <li>🌱 Training hard for the <b>eJPT certification</b> to solidify my offensive security foundation.</li>
-        <li>🎓 Diving deep into <b>Artificial Intelligence & Machine Learning</b> algorithms.</li>
-        <li>💻 Crafting functional and intuitively designed <b>Web Applications</b>.</li>
-        <li>🐧 Navigating the terminal daily with <b>Kali Linux</b>.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://i.gifer.com/Xqg8.gif" width="250" alt="Hacker/Coding GIF" />
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Harikaran-G&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
 
-<br>
+<img src="https://img.shields.io/github/followers/Harikaran-G?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=020617"/>
 
-<!-- Tech Stack Badges -->
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+</div>
+
+---
+
+<h2 align="center">⚡ SYSTEM IDENTIFICATION</h2>
+
+```bash
+┌──(harikaran㉿kali)-[~]
+└─$ whoami
+
+[+] Name       : Harikaran G
+[+] Role       : Cybersecurity Enthusiast
+[+] Education  : B.Tech Information Technology
+[+] Speciality : Penetration Testing | VAPT
+[+] OS         : Kali Linux
+[+] Learning   : eJPT | Web Security | Network Security
+
+┌──(harikaran㉿kali)-[~]
+└─$ cat mission.txt
+
+> Exploring vulnerabilities
+> Understanding attack surfaces
+> Performing security assessments
+> Building secure applications
+> Learning something new every day
+
+[+] Mission: Build. Break. Secure. Repeat.
+```
+
+---
+
+<h2 align="center">🛡️ ABOUT ME</h2>
 
 <div align="center">
 
-  <b>Security & OS</b><br><br>
+Cybersecurity enthusiast passionate about offensive security, vulnerability assessment, and penetration testing.
 
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/security-VAPT-3670A0?style=for-the-badge&logo=springsecurity&logoColor=white" alt="VAPT" />
-
-  <br><br>
-
-  <b>VAPT & Cybersecurity Tools</b><br><br>
-
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-255E94?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-032F6E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-
-  <br><br>
-
-  <b>Development & Engineering</b><br><br>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Apache_NiFi-72B64B?style=for-the-badge&logo=apache&logoColor=white" alt="Apache NiFi" />
-
-  <br><br>
-
-  <b>Tools & Software</b><br><br>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+I enjoy exploring security vulnerabilities, performing hands-on security assessments, solving CTF challenges, and understanding how systems can be protected against real-world attacks.
 
 </div>
 
 <br>
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+
+| 🎯 Focus | 🔍 Interest |
+|:---|:---|
+| Penetration Testing | Web Application Security |
+| Network Security | Vulnerability Assessment |
+| Ethical Hacking | Security Research |
+| Linux Administration | CTF Challenges |
+| API Security | OWASP Top 10 |
+
+</div>
+
+---
+
+<h2 align="center">⚔️ SECURITY ARSENAL</h2>
+
+<div align="center">
+
+### 🔐 Offensive Security & VAPT
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenVAS-00A651?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logoColor=white"/>
+
+### 🌐 Network Analysis
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCPdump-00A86B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-255E94?style=for-the-badge&logoColor=white"/>
+
+### 🐧 Operating Systems
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+### 💻 Programming & Development
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 🛠️ Development Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENT OPERATIONS</h2>
+
+<div align="center">
+
+| Status | Learning / Working On |
+|:---:|:---|
+| 🟢 | Penetration Testing |
+| 🟢 | Web Application VAPT |
+| 🟢 | Network Enumeration |
+| 🟢 | OWASP Top 10 |
+| 🟢 | eJPT Certification Preparation |
+| 🟢 | HackTheBox & INE Labs |
+
+</div>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <details>
-  <summary><b>🛒 E-Commerce Price Comparison Web App</b> <i>(Click to expand)</i></summary>
+<summary><b>🛡️ INTERNAL NETWORK VAPT</b></summary>
 
-  <p>
-    A Python-based web application designed with a strong focus on UI/UX to seamlessly scrape and compare product prices across multiple major e-commerce platforms. Built to deliver real-time data efficiently.
-  </p>
+<br>
+
+**Category:** Network Security / Penetration Testing
+
+- Conducted internal network vulnerability assessments.
+- Performed network reconnaissance and enumeration.
+- Identified potential security weaknesses.
+- Used Nmap and other security assessment tools.
+- Documented findings and remediation recommendations.
+
+**Tools:** Kali Linux, Nmap, Metasploit, Wireshark.
+
 </details>
+
+<br>
 
 <details>
-  <summary><b>🛡️ Internal Network VAPT</b> <i>(Click to expand)</i></summary>
+<summary><b>🛒 E-COMMERCE PRICE COMPARISON WEB APP</b></summary>
 
-  <p>
-    Acted as the lead and most experienced member of a 5-person security team conducting comprehensive internal network vulnerability assessments. Identified weaknesses and mapped out remediation strategies.
-  </p>
+<br>
+
+**Category:** Web Development / Artificial Intelligence
+
+- Developed a Python-based product price comparison application.
+- Integrated OCR-based product identification.
+- Implemented product information extraction.
+- Designed an interactive application interface.
+
+**Technologies:** Python, Streamlit, EasyOCR, CLIP.
+
 </details>
 
 <br>
 
-<!-- GitHub Streak Statistics -->
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harikaran-G&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<details>
+<summary><b>🔎 CLAIM FORM ASSISTANT</b></summary>
 
 <br>
 
-<!-- Footer -->
+**Category:** Form Automation / Backend Development
+
+- Developed a system to automate reimbursement and claim form processing.
+- Implemented field extraction and validation.
+- Integrated OCR-based document processing.
+- Designed user authentication and claim management.
+
+**Technologies:** Python, FastAPI, Streamlit, SQLite, OpenCV.
+
+</details>
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harikaran-G&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Harikaran-G&theme=dark&hide_border=true&background=020617&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikaran-G&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff9c&text_color=c9d1d9"/>
+
 </div>
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harikaran-G/Harikaran-G/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<h2 align="center">🔗 ESTABLISH CONNECTION</h2>
+
+<div align="center">
+
+<a href="mailto:Harikaran29g@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00ff9c?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/g-harikaran">
+<img src="https://img.shields.io/badge/LINKEDIN-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Harikaran-G">
+<img src="https://img.shields.io/badge/GITHUB-00ff9c?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
+
+```bash
+┌──(harikaran㉿kali)-[~]
+└─$ ./connect.sh
+
+[+] Connection Established
+[+] Welcome to my Cybersecurity Lab
+[+] Keep Learning
+[+] Keep Exploring
+[+] Stay Ethical
+
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:064e3b,100:020617&height=120&section=footer"/>
+
+<!-- ================= END OF PROFILE ================= -->
